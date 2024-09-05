@@ -1,6 +1,6 @@
 layout: page
 title: "recomdstudy"
-permalink: /mbarbera.github.io/apunts
+permalink: /mbarbera.github.io/apunts/reco
 
 # Recommended study tasks Unit 1 - Part 1
 
