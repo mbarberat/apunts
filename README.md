@@ -1,2 +1,1 @@
-# mbarbera.github.io
-Apuntes
+# Apunts
